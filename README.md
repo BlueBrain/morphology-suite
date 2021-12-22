@@ -1,12 +1,16 @@
 # Morphology Suite
 A suite to build, analyze and visualize morphologies.
 
+- [NeuroR](#neuror) — A collection of tools to repair morphologies.
+- [neuroTS](#neurots) — Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties
+
+
 ## Morphology Building
 
 ### NeuroR
 <img alt="NeuroR Banner" src="https://github.com/BlueBrain/NeuroR/blob/master/doc/source/_images/BlueBrainNeuroR.png" width="600"/>
 
-**NeuroR is a collection of tools to repair morphologies.**
+**A collection of tools to repair morphologies.**
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/NeuroR),
