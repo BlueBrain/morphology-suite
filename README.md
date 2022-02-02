@@ -44,8 +44,8 @@ NeuroR is a collection of tools to repair morphologies.
 ## Morphology Workflows
 
 Useful links:
-[GitHub repo](https://github.com/BlueBrain/MorphIO),
-[Documentation](https://morphio.readthedocs.io/).
+[GitHub repo](https://github.com/BlueBrain/morphology-workflows),
+[Documentation](https://github.com/BlueBrain/morphology-workflows#readme).
 
 **Workflows used for morphology processing.**
 
@@ -76,7 +76,7 @@ It aims to provide small helper programs that perform simple tasks.
 
 
 Useful links:
-[GitHub repo](https://github.com/BlueBrain/NeuroM),
-[Documentation](https://neurom.readthedocs.io/).
+[GitHub repo](https://github.com/BlueBrain/MorphIO),
+[Documentation](https://morphio.readthedocs.io/en/latest/).
 
 **A python and C++ library for reading and writing neuronal morphologies**
