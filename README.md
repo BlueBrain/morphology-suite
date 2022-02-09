@@ -10,7 +10,7 @@ A suite to build, analyze and visualize morphologies.
 - [MorphIO](#morphio) - A python and C++ library for reading and writing neuronal morphologies.
 
 ## NeuroM
-<img alt="NeuroR Banner" src="https://github.com/BlueBrain/NeuroM/raw/master/doc/source/logo/NeuroM.jpg" width="600"/>
+<img alt="NeuroM Banner" src="https://github.com/BlueBrain/NeuroM/raw/master/doc/source/logo/NeuroM.jpg" width="600"/>
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/NeuroM),
@@ -50,7 +50,7 @@ Useful links:
 **Workflows used for morphology processing.**
 
 ## NeuroMorphoVis
-<img alt="NeuroR Banner" src="https://github.com/BlueBrain/NeuroMorphoVis/wiki/images/logos/neuromorphovis-logo.png" width="600"/>
+<img alt="NeuroMorphoVis Banner" src="https://github.com/BlueBrain/NeuroMorphoVis/wiki/images/logos/neuromorphovis-logo.png" width="600"/>
 
 
 Useful links:
@@ -64,6 +64,8 @@ A lightweight, interactive, extensible and cross-platform framework for building
 
 
 ## morph-tool
+<img alt="morph-tool Banner" src="https://github.com/BlueBrain/morph-tool/blob/660189e9b8e1fb89cf7c6172d66b2c8de69254f3/doc/source/logo/BBP-Morph-Tool.jpg" width="600"/>
+
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/morph-tool),
 [Documentation](https://github.com/BlueBrain/morph-tool#readme).
@@ -73,6 +75,7 @@ Useful links:
 It aims to provide small helper programs that perform simple tasks.
 
 ## MorphIO
+<img alt="MorphIO Banner" src="https://github.com/BlueBrain/MorphIO/blob/660189e9b8e1fb89cf7c6172d66b2c8de69254f3/doc/source/logo/BBP-MorphIO.jpg" width="600"/>
 
 
 Useful links:
