@@ -77,6 +77,6 @@ It aims to provide small helper programs that perform simple tasks.
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/MorphIO),
-[Documentation](https://morphio.readthedocs.io/en/latest/).
+[Documentation](https://morphio.readthedocs.io/en/latest/). 
 
 **A python and C++ library for reading and writing neuronal morphologies**
