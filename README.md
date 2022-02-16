@@ -21,7 +21,8 @@ Useful links:
 NeuroM is a Python toolkit for the analysis and processing of neuron morphologies.
 
 ## neuroTS
-<img alt="NeuroTS Banner" src="https://raw.githubusercontent.com/BlueBrain/NeuroTS/main/doc/source/logo/BBP-NeuroTS.jpg" width="600"/>
+<img alt="NeuroTS Banner" src="https://github.com/BlueBrain/NeuroTS/raw/main/doc/source/logo/BBP-NeuroTS.jpg" width="600"/>
+
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/neuroTS),
@@ -78,7 +79,7 @@ Useful links:
 It aims to provide small helper programs that perform simple tasks.
 
 ## MorphIO
-
+<img alt="MorphIO Banner" src="https://github.com/BlueBrain/MorphIO/raw/master/doc/source/logo/BBP-MorphIO.jpg" width="600"/>
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/MorphIO),
