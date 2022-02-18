@@ -2,8 +2,8 @@
 A suite to build, analyze and visualize morphologies.
 
 - [NeuroM](#neurom) - A toolbox for analysis and processing of neuron morphologies.
-- [neuroTS](#neurots) — Generation of artificial neuronal trees.
 - [NeuroR](#neuror) — A collection of tools to repair morphologies.
+- [neuroTS](#neurots) — Generation of artificial neuronal trees.
 - [Morphology Workflows](#morphology-workflows) - Workflows used for morphology processing.
 - [NeuroMorphoVis](#neuromorphovis) - A toolbox to create digital reconstructions of neuronal morphologies.
 - [morph-tool](#morph-tool) - A toolbox for morphology editing.
