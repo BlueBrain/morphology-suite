@@ -20,6 +20,17 @@ Useful links:
 
 NeuroM is a Python toolkit for the analysis and processing of neuron morphologies.
 
+## NeuroR
+<img alt="NeuroR Banner" src="https://raw.githubusercontent.com/BlueBrain/NeuroR/master/doc/source/_images/BlueBrainNeuroR.png" width="600"/>
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/NeuroR),
+[Documentation](https://neuror.readthedocs.io).
+
+**A collection of tools to repair morphologies.**
+
+NeuroR is a collection of tools to repair morphologies.
+
 ## neuroTS
 <img alt="NeuroTS Banner" src="https://github.com/BlueBrain/NeuroTS/raw/main/doc/source/logo/BBP-NeuroTS.jpg" width="600"/>
 
@@ -31,17 +42,6 @@ Useful links:
 **Generation of artificial neuronal trees.**
 
 Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
-
-## NeuroR
-<img alt="NeuroR Banner" src="https://raw.githubusercontent.com/BlueBrain/NeuroR/master/doc/source/_images/BlueBrainNeuroR.png" width="600"/>
-
-Useful links:
-[GitHub repo](https://github.com/BlueBrain/NeuroR),
-[Documentation](https://neuror.readthedocs.io).
-
-**A collection of tools to repair morphologies.**
-
-NeuroR is a collection of tools to repair morphologies.
 
 ## Morphology Workflows
 <img alt="Morphology Workflows Banner" src="https://github.com/BlueBrain/morphology-workflows/raw/main/doc/source/logo/BBP-Morphology-Workflows.jpg" width="600"/>
