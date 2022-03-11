@@ -8,7 +8,7 @@ A suite to build, analyze and visualize morphologies.
 - [NeuroMorphoVis](#neuromorphovis) - A toolbox to create digital reconstructions of neuronal morphologies.
 - [morph-tool](#morph-tool) - A toolbox for morphology editing.
 - [MorphIO](#morphio) - A python and C++ library for reading and writing neuronal morphologies.
-- [morphology-documentation](morphology-documentation) - Documentation of the morphology files formats used by Blue Brain.
+- [morphology-documentation](#morphology-documentation) - Documentation of the morphology files formats used by Blue Brain.
 
 ## NeuroM
 <img alt="NeuroR Banner" src="https://github.com/BlueBrain/NeuroM/raw/master/doc/source/logo/NeuroM.jpg" width="600"/>
