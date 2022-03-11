@@ -88,6 +88,8 @@ Useful links:
 
 **A python and C++ library for reading and writing neuronal morphologies**
 
+MorphIO is a library for reading and writing neuron morphology files that supports swc, neurolucida asc and hdf5 as documented below.
+
 ## morphology-documentation
 
 Useful links:
