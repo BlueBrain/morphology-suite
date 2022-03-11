@@ -97,3 +97,5 @@ Useful links:
 [Documentation](https://github.com/BlueBrain/morphology-documentation#readme).
 
 **This repository contains the documentation of the morphology files formats used by Blue Brain.**
+
+This is the documentation for the file formats used at Blue Brain for neurons, astrocytes and vasculatures.
