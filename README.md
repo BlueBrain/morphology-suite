@@ -11,7 +11,7 @@ A suite to build, analyze and visualize morphologies.
 - [morphology-documentation](#morphology-documentation) — Documentation of the morphology files formats used by Blue Brain.
 
 ## NeuroM
-<img alt="NeuroR Banner" src="https://github.com/BlueBrain/NeuroM/raw/master/doc/source/logo/NeuroM.jpg" width="600"/>
+<img alt="NeuroM Banner" src="https://github.com/BlueBrain/NeuroM/raw/master/doc/source/logo/NeuroM.jpg" width="600"/>
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/NeuroM),
@@ -54,7 +54,7 @@ Useful links:
 **Workflows used for morphology processing.**
 
 ## NeuroMorphoVis
-<img alt="NeuroR Banner" src="https://github.com/BlueBrain/NeuroMorphoVis/wiki/images/logos/neuromorphovis-logo.png" width="600"/>
+<img alt="NeuroMorphoVis Banner" src="https://github.com/BlueBrain/NeuroMorphoVis/wiki/images/logos/neuromorphovis-logo.png" width="600"/>
 
 
 Useful links:
@@ -69,7 +69,7 @@ A lightweight, interactive, extensible and cross-platform framework for building
 
 ## morph-tool
 
-<img alt="NeuroR Banner" src="https://github.com/BlueBrain/morph-tool/raw/master/doc/source/logo/BBP-Morph-Tool.jpg" width="600"/>
+<img alt="morph-tool Banner" src="https://github.com/BlueBrain/morph-tool/raw/master/doc/source/logo/BBP-Morph-Tool.jpg" width="600"/>
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/morph-tool),
