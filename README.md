@@ -33,7 +33,7 @@ Useful links:
 NeuroR is a collection of tools to repair morphologies.
 
 ## NeuroTS
-<img alt="NeuroTS Banner" src="https://github.com/BlueBrain/NeuroTS/raw/main/doc/source/logo/BBP-NeuroTS.jpg" width="600"/>
+<img alt="NeuroTS Banner" src="https://raw.githubusercontent.com/BlueBrain/NeuroTS/main/docs/source/logo/BBP-NeuroTS.jpg" width="600"/>
 
 
 Useful links:
@@ -45,7 +45,7 @@ Useful links:
 Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
 
 ## Morphology Workflows
-<img alt="Morphology Workflows Banner" src="https://github.com/BlueBrain/morphology-workflows/raw/main/doc/source/logo/BBP-Morphology-Workflows.jpg" width="600"/>
+<img alt="Morphology Workflows Banner" src="https://github.com/BlueBrain/morphology-workflows/raw/main/docs/source/logo/BBP-Morphology-Workflows.jpg" width="600"/>
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/morphology-workflows),
