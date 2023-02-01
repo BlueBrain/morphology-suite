@@ -9,6 +9,7 @@ A suite to build, analyze and visualize morphologies.
 - [morph-tool](#morph-tool) — A toolbox for morphology editing.
 - [MorphIO](#morphio) — A python and C++ library for reading and writing neuronal morphologies.
 - [morphology-documentation](#morphology-documentation) — Documentation of the morphology files formats used by Blue Brain.
+- [BioExplorer](#bioexplorer) - extract and analyze scientific data for visualization and interactive exploration
 
 ## NeuroM
 <img alt="NeuroM Banner" src="https://github.com/BlueBrain/NeuroM/raw/master/doc/source/logo/NeuroM.jpg" width="600"/>
@@ -99,3 +100,14 @@ Useful links:
 **This repository contains the documentation of the morphology files formats used by Blue Brain.**
 
 This is the documentation for the file formats used at Blue Brain for neurons, astrocytes and vasculatures.
+
+## BioExplorer
+<img alt="BioExplorer Banner" src="https://github.com/BlueBrain/BioExplorer/raw/master/bioexplorer/pythonsdk/notebooks/bioexplorer_banner.png" width="600"/>
+
+**The Blue Brain BioExplorer is a tool for scientists to extract and analyze scientific data for visualization and interactive exploration**
+
+Exploration relies on building software that combines data integration, analysis and interactive visualization to build, modify and navigate through large scientific datasets. For this, Blue Brain built and open-sourced the Blue Brain BioExplorer. It was originally developed to answer key scientific questions related to the Coronavirus as a use case and to deliver a visualization tool. Today, the BioExplorer allows to reconstruct, visualize, explore and describe in detail the structure and function of highly-detailed biological structures such as molecular systems, neurons, astrocytes, blood vessels, and more. You can see the first application of the BioExplorer in [A Machine-Generated View of the Role of Blood Glucose Levels in the Severity of COVID-19](https://www.frontiersin.org/articles/10.3389/fpubh.2021.695139/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE) study.
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/BioExplorer),
+[Documentation](https://bluebrain.github.io/BioExplorer/).
