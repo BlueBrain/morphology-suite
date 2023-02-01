@@ -9,7 +9,7 @@ A suite to build, analyze and visualize morphologies.
 - [morph-tool](#morph-tool) — A toolbox for morphology editing.
 - [MorphIO](#morphio) — A python and C++ library for reading and writing neuronal morphologies.
 - [morphology-documentation](#morphology-documentation) — Documentation of the morphology files formats used by Blue Brain.
-- [BioExplorer](#bioexplorer) - extract and analyze scientific data for visualization and interactive exploration
+- [BioExplorer](#bioexplorer) - Extract and analyze scientific data for visualization and interactive exploration.
 
 ## NeuroM
 <img alt="NeuroM Banner" src="https://github.com/BlueBrain/NeuroM/raw/master/doc/source/logo/NeuroM.jpg" width="600"/>
