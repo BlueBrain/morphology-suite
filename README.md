@@ -6,6 +6,7 @@ A suite to build, analyze and visualize morphologies.
 - [NeuroTS](#neurots) — Generation of artificial neuronal trees.
 - [Morphology Workflows](#morphology-workflows) — Workflows used for morphology processing.
 - [NeuroMorphoVis](#neuromorphovis) — A toolbox to create digital reconstructions of neuronal morphologies.
+- [Ultraliser](#ultraliser) - Generation of high fidelity and multiscale 3D neuroscientific models.
 - [morph-tool](#morph-tool) — A toolbox for morphology editing.
 - [MorphIO](#morphio) — A python and C++ library for reading and writing neuronal morphologies.
 - [morphology-documentation](#morphology-documentation) — Documentation of the morphology files formats used by Blue Brain.
@@ -66,6 +67,20 @@ Useful links:
 **A toolbox to create digital reconstructions of neuronal morphologies.**
 
 A lightweight, interactive, extensible and cross-platform framework for building, visualizing and analyzing digital reconstructions of neuronal morphology skeletons extracted from microscopy stacks.
+
+## Ultraliser
+<img alt="Ultraliser Banner" src="https://github.com/BlueBrain/Ultraliser/blob/master/docs/images/banner.jpg" width="600"/>
+
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/Ultraliser),
+[Documentation](https://github.com/BlueBrain/Ultraliser/wiki).
+
+
+**Reconstruction of watertight meshes, annotated volumes and center line skeletons of neuroscience spatial structures from non-watertight inputs, segmented masks, skeletons of NGV morphologies and volumes.**
+
+Ultraliser is an unconditionally robust and high-performance framework dedicated primarily to in silico neuroscience research. Ultraliser is capable of generating high fidelity and multiscale 3D models (surface meshes and annotated volumes) of neuroscientific data, such as nuclei, mitochondria, endoplasmic reticula, neurons, astrocytes, pericytes, neuronal branches with dendritic spines, minicolumns with thousands of neurons and large networks of cerebral vasculature - with realistic geometries.
+
 
 
 ## morph-tool
