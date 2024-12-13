@@ -56,6 +56,8 @@ Useful links:
 
 **Long-range axon synthesis in brain atlases.**
 
+Generation of artificial long-range axon trees in brain atlases based on the Steiner-Tree algorithm for large scale structure synthesis and topological statistical properties for small scale structure synthesis.
+
 ## Morphology Workflows
 <img alt="Morphology Workflows Banner" src="https://github.com/BlueBrain/morphology-workflows/raw/main/docs/source/logo/BBP-Morphology-Workflows.jpg" width="600"/>
 
