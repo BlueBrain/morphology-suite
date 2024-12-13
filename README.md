@@ -4,6 +4,7 @@ A suite to build, analyze and visualize morphologies.
 - [NeuroM](#neurom) — A toolbox for analysis and processing of neuron morphologies.
 - [NeuroR](#neuror) — A collection of tools to repair morphologies.
 - [NeuroTS](#neurots) — Generation of artificial neuronal trees.
+- [Axon-Synthesis](#axon-synthesis) — Generation of artificial long-range axons in brain atlases.
 - [Morphology Workflows](#morphology-workflows) — Workflows used for morphology processing.
 - [NeuroMorphoVis](#neuromorphovis) — A toolbox to create digital reconstructions of neuronal morphologies.
 - [Ultraliser](#ultraliser) - Generation of high fidelity and multiscale 3D neuroscientific models.
@@ -45,6 +46,17 @@ Useful links:
 **Generation of artificial neuronal trees.**
 
 Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
+
+## Axon-Synthesis
+<img alt="Axon-Synthesis Banner" src="https://github.com/BlueBrain/axon-synthesis/raw/main/docs/source/BBP-Axon-Synthesis.jpg" width="600"/>
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/axon-synthesis),
+[Documentation](https://axon-synthesis.readthedocs.io/).
+
+**Long-range axon synthesis in brain atlases.**
+
+Generation of artificial long-range axon trees in brain atlases based on the Steiner-Tree algorithm for large scale structure synthesis and topological statistical properties for small scale structure synthesis.
 
 ## Morphology Workflows
 <img alt="Morphology Workflows Banner" src="https://github.com/BlueBrain/morphology-workflows/raw/main/docs/source/logo/BBP-Morphology-Workflows.jpg" width="600"/>
