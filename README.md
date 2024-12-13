@@ -46,6 +46,15 @@ Useful links:
 
 Generation of artificial neuronal trees based on the topology of biological cells and their statistical properties.
 
+## Axon-Synthesis
+<img alt="Axon-Synthesis Banner" src="https://github.com/BlueBrain/axon-synthesis/raw/master/docs/source/BBP-Axon-Synthesis.jpg" width="600"/>
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/axon-synthesis),
+[Documentation](https://axon-synthesis.readthedocs.io/).
+
+**Long-range axon synthesis in brain atlases.**
+
 ## Morphology Workflows
 <img alt="Morphology Workflows Banner" src="https://github.com/BlueBrain/morphology-workflows/raw/main/docs/source/logo/BBP-Morphology-Workflows.jpg" width="600"/>
 
